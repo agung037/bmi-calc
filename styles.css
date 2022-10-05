@@ -1,0 +1,57 @@
+body {
+  background-color: #3498db;
+}
+
+.main {
+  margin-top: 4rem;
+  background-color: aliceblue;
+}
+
+.header {
+  background-color: #34495e;
+  padding: 1rem;
+}
+
+h2 {
+  font-size: 3.5rem;
+  color: white;
+  text-align: center;
+}
+
+h3 {
+  font-size: 2rem;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+
+label {
+  font-size: 1.5rem;
+}
+
+.result {
+  padding: 1rem;
+  background-color: #34495e;
+}
+
+.under {
+  background-color: #2980b9;
+}
+
+.normal {
+  background-color: #27ae60;
+}
+
+.over {
+  background-color: #d35400;
+}
+
+.obese {
+  background-color: #c0392b;
+}
+
+footer {
+  text-align: center;
+  margin-top: 3rem;
+  padding: 1rem;
+}
