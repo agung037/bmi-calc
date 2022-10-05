@@ -63,3 +63,7 @@ footer {
   margin-top: 3rem;
   padding: 1rem;
 }
+
+.weight {
+  max-width: 10rem;
+}
