@@ -3,7 +3,7 @@ body {
 }
 
 .main {
-  margin-top: 4rem;
+  margin-top: 2rem;
   background-color: aliceblue;
 }
 
@@ -48,6 +48,13 @@ label {
 
 .obese {
   background-color: #c0392b;
+}
+
+.under,
+.normal,
+.over,
+.obese {
+  border-radius: 10px;
 }
 
 footer {
