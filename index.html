@@ -41,9 +41,9 @@
                         <input v-model="weight" min="40" max="150" type="range" class="form-range">
                     </div>
                     <div>
-                        <div class="weight input-group mb-3">
+                        <div class="height input-group mb-3">
                             <span class="input-group-text">height (cm)</span>
-                            <input type="text" :value="height" class="form-control">
+                            <input type="text" v-model="height" class="form-control">
                         </div>
                         <input v-model="height" min="100" max="200" type="range" class="form-range">
                     </div>
