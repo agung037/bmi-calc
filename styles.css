@@ -64,6 +64,7 @@ footer {
   padding: 1rem;
 }
 
-.weight {
+.weight,
+.height {
   max-width: 10rem;
 }
